@@ -1,1 +1,14 @@
 A FiveM script By LefoxyAbi
+
+EN:
+
+Its Make with Ox_Lib Also you need
+- Ox_Lib
+- Ox_Inventory
+
+
+DE:
+
+Das Script Wurde mit Ox_Lib Gemacht also du brauchst
+- Ox_Lib
+- Ox_Inventory
