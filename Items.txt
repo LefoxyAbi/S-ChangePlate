@@ -1,0 +1,10 @@
+--- Add This in Ox_Inventory to The Items.lua in data/items.lua
+["ITEM NAME"] = {
+    label = "YOU LABLE OF ITEM", 
+    weight = 10,
+    stack = true, -- More On 1 Slot
+    close = true, -- Inventory Close On Use
+    client = {
+        export = 'S-ChangePlate.use',
+    },
+},
